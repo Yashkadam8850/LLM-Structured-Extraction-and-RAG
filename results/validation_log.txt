@@ -1,0 +1,48 @@
+===== Validation Errors =====
+
+{
+    "id": 4,
+    "error": "1 validation error for ReviewSchema\ncategory\n  Input should be 'Delivery', 'Product', 'Refund', 'Payment', 'Customer_Support' or 'App' [type=enum, input_value='Customer Support', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/enum",
+    "raw": {
+        "category": "Customer Support",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer support resolved the issue quickly and efficiently.",
+        "id": 4,
+        "review": "Customer support solved my issue within minutes."
+    }
+}
+
+{
+    "id": 10,
+    "error": "1 validation error for ReviewSchema\ncategory\n  Input should be 'Delivery', 'Product', 'Refund', 'Payment', 'Customer_Support' or 'App' [type=enum, input_value='Customer Support', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/enum",
+    "raw": {
+        "category": "Customer Support",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer claims that their emails to customer support were never replied to.",
+        "id": 10,
+        "review": "Customer support never replied to my emails."
+    }
+}
+
+===== Malformed Fixture =====
+
+{
+    "category": "delivery",
+    "urgency": "urgent",
+    "sentiment": "Bad",
+    "summary": "Package delayed."
+}
+
+Validation Result:
+3 validation errors for ReviewSchema
+category
+  Input should be 'Delivery', 'Product', 'Refund', 'Payment', 'Customer_Support' or 'App' [type=enum, input_value='delivery', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/enum
+urgency
+  Input should be 'Low', 'Medium' or 'High' [type=enum, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/enum
+sentiment
+  Input should be 'Positive', 'Neutral' or 'Negative' [type=enum, input_value='Bad', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/enum

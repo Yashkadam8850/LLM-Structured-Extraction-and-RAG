@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "review": "I ordered a phone last week but it has not been delivered yet."
+  },
+  {
+    "id": 2,
+    "review": "The product quality is amazing. Highly recommended!"
+  },
+  {
+    "id": 3,
+    "review": "I requested a refund three days ago but haven't received any response."
+  },
+  {
+    "id": 4,
+    "review": "Customer support solved my issue within minutes."
+  },
+  {
+    "id": 5,
+    "review": "The payment failed twice even though money was deducted."
+  },
+  {
+    "id": 6,
+    "review": "Packaging was damaged but the product works fine."
+  },
+  {
+    "id": 7,
+    "review": "Excellent delivery service. Package arrived earlier than expected."
+  },
+  {
+    "id": 8,
+    "review": "The app crashes every time I open it."
+  },
+  {
+    "id": 9,
+    "review": "Refund was processed quickly. Very satisfied."
+  },
+  {
+    "id": 10,
+    "review": "Customer support never replied to my emails."
+  },
+  {
+    "id": 11,
+    "review": "The headphones stopped working after only two days."
+  },
+  {
+    "id": 12,
+    "review": "Checkout process is smooth and easy."
+  },
+  {
+    "id": 13,
+    "review": "Wrong item was delivered to my address."
+  },
+  {
+    "id": 14,
+    "review": "The latest update improved the app performance significantly."
+  },
+  {
+    "id": 15,
+    "review": "Still waiting for my replacement product after two weeks."
+  }
+]

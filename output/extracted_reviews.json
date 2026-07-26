@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Delivery",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer is frustrated because their phone order from last week has not been delivered yet.",
+        "id": 1,
+        "review": "I ordered a phone last week but it has not been delivered yet."
+    },
+    {
+        "category": "Product",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer praises the product quality and recommends it.",
+        "id": 2,
+        "review": "The product quality is amazing. Highly recommended!"
+    },
+    {
+        "category": "Refund",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer is waiting for a refund response for three days with no update.",
+        "id": 3,
+        "review": "I requested a refund three days ago but haven't received any response."
+    },
+    {
+        "category": "Customer Support",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer support resolved the issue quickly and efficiently.",
+        "id": 4,
+        "review": "Customer support solved my issue within minutes."
+    },
+    {
+        "category": "Payment",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer experienced two failed payment attempts despite money being deducted from their account.",
+        "id": 5,
+        "review": "The payment failed twice even though money was deducted."
+    },
+    {
+        "category": "Delivery",
+        "urgency": "Medium",
+        "sentiment": "Neutral",
+        "summary": "Customer received a product with damaged packaging, but the product itself is functional.",
+        "id": 6,
+        "review": "Packaging was damaged but the product works fine."
+    },
+    {
+        "category": "Delivery",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer praised the delivery service for arriving earlier than expected.",
+        "id": 7,
+        "review": "Excellent delivery service. Package arrived earlier than expected."
+    },
+    {
+        "category": "App",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer reports frequent app crashes upon opening.",
+        "id": 8,
+        "review": "The app crashes every time I open it."
+    },
+    {
+        "category": "Refund",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer is satisfied with the quick refund processing.",
+        "id": 9,
+        "review": "Refund was processed quickly. Very satisfied."
+    },
+    {
+        "category": "Customer Support",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer claims that their emails to customer support were never replied to.",
+        "id": 10,
+        "review": "Customer support never replied to my emails."
+    },
+    {
+        "category": "Product",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer reports product failure within two days of use.",
+        "id": 11,
+        "review": "The headphones stopped working after only two days."
+    },
+    {
+        "category": "App",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer praises the ease and smoothness of the checkout process in the app.",
+        "id": 12,
+        "review": "Checkout process is smooth and easy."
+    },
+    {
+        "category": "Delivery",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer received the wrong item.",
+        "id": 13,
+        "review": "Wrong item was delivered to my address."
+    },
+    {
+        "category": "App",
+        "urgency": "Low",
+        "sentiment": "Positive",
+        "summary": "Customer appreciates the recent app update for enhancing performance.",
+        "id": 14,
+        "review": "The latest update improved the app performance significantly."
+    },
+    {
+        "category": "Delivery",
+        "urgency": "High",
+        "sentiment": "Negative",
+        "summary": "Customer is frustrated with the delay in receiving a replacement product, waiting for two weeks.",
+        "id": 15,
+        "review": "Still waiting for my replacement product after two weeks."
+    }
+]

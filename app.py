@@ -40,7 +40,7 @@ with tab1:
 
 with tab2:
 
-    st.header("Ask Questions")
+    st.header("Only ask question related to Machine Learning and AI")
 
     question = st.text_input(
         "Enter your question"

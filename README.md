@@ -7,7 +7,7 @@ An end-to-end AI project demonstrating **LLM-powered Structured Information Extr
 ## 🚀 Live Demo
 
 🌐 **Streamlit Application:**  
-**https://your-streamlit-app.streamlit.app**
+**https://llm-structured-extraction-and-rag-yzembazvu5ykmrr3rfesyk.streamlit.app/**
 
 📂 **GitHub Repository:**  
 **https://github.com/Yashkadam8850/LLM-Structured-Extraction-and-RAG**
@@ -448,7 +448,7 @@ The Streamlit application provides:
 
 # 👨‍💻 Author
 
-**Yash Kadam**
+# **Yash Kadam**
 
 ### Connect with me
 

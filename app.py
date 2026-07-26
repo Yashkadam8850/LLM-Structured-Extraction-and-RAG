@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🤖 LLM Structured Extraction & RAG")
+st.title("🤖 LLM Structured Extraction & RAG By Yash Kadam ")
 
 tab1, tab2 = st.tabs([
     "Structured Extraction",

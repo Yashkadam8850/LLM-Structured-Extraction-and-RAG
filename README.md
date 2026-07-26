@@ -5,9 +5,10 @@ An end-to-end AI project demonstrating **LLM-powered Structured Information Extr
 ---
 
 ## 🚀 Live Demo
-
 🌐 **Streamlit Application:**  
-**https://llm-structured-extraction-and-rag-yzembazvu5ykmrr3rfesyk.streamlit.app/**
+**http://llm-structured-extraction-and-rag-yzembazvu5ykmrr3rfesyk.streamlit.app/**
+**![alt text]image-1.png**
+**![alt text]image.png**
 
 📂 **GitHub Repository:**  
 **https://github.com/Yashkadam8850/LLM-Structured-Extraction-and-RAG**
